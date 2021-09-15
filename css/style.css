@@ -1,15 +1,15 @@
 .titre{
-  font-family:Libre Bodoni;
+  font-family:"Garamond", serif;
   text-align:center;
   font-size:36px;
-  color:rgb (255, 255, 255);
+  color: white;
 }
 
 body {
 background: linear-gradient(145deg, rgba(121,9,117,1) 35%, rgba(0,212,255,1) 100%);
 	background-size: 400%;
 	animation: gradient 10s infinite;
-	height: 100vh;
+  height: 100vh;
 
 }
 
