@@ -22,6 +22,13 @@
   font-size: 18px;
   color: white;
 }
+.menu{
+  font-family:"Garamond", serif;
+  font-size: 24px;
+  color: white;
+  top: 200px;
+  margin: 0;
+}
 ul{
   color: white;
   top: 200px;
