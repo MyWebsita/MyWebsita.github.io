@@ -29,6 +29,11 @@
   top: 200px;
   margin: 0;
 }
+#mainimage{
+  position: relative;
+  bottom: 100px;
+  left: 150px;
+}
 ul{
   color: white;
   top: 200px;
