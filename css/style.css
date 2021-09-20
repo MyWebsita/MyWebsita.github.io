@@ -39,6 +39,17 @@ ul{
   top: 200px;
   margin: 0;
 }
+.para{
+  font-family:"Garamond", serif;
+  text-align: center;
+  font-size: 24px;
+  position: relative; top:50px;
+  color: white;
+  border: 5px solid white;
+  width: 400px;
+  height: 250px;
+  margin: auto;
+}
 body {
 background: linear-gradient(145deg, rgba(121,9,9,1) 35%, rgba(255,196,0,1) 100%);
 	background-size: 400%;
