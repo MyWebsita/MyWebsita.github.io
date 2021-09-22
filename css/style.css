@@ -17,11 +17,18 @@
   height: 250px;
   margin: auto;
 }
+/* Ce sont les codes qui ont stylise touts les liens du menu*/
 .lien{
   font-family:"Garamond", serif;
   font-size: 18px;
   color: white;
 }
+ul{
+  color: white;
+  top: 200px;
+  margin: 0;
+}
+/*Ce sont les codes qui ont stylise touts les titres du menu*/
 .menu{
   font-family:"Garamond", serif;
   font-size: 24px;
@@ -29,16 +36,13 @@
   top: 200px;
   margin: 0;
 }
+/*Ce sont les codes qui ont stylise specifiquement l'images sur l'acceil*/
 #mainimage{
   position: relative;
   bottom: 50px;
   left: 40%;
 }
-ul{
-  color: white;
-  top: 200px;
-  margin: 0;
-}
+/*Ce sont les codes qui ont stylise touts le paragraphe*/
 .para{
   font-family:"Garamond", serif;
   text-align: center;
@@ -50,12 +54,18 @@ ul{
   height: 250px;
   margin: auto;
 }
+.tab{
+  font-family:"Garamond", serif;
+  text-align: center;
+  font-size: 24px;
+  color: white;
+}
+/*Ce sont les codes qui ont stylise touts les l'arriere plan*/
 body {
 background: linear-gradient(145deg, rgba(121,9,9,1) 35%, rgba(255,196,0,1) 100%);
 	background-size: 400%;
 	animation: gradient 10s infinite;
-  height: 100vh;
-
+  height: 200vh;
 }
 
 @keyframes gradient {
